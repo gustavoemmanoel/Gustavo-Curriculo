@@ -1,2 +1,2 @@
 # Gustavo-Curriculo 
-:bulb: Curriculo do gugu
+Curriculo do gugu
